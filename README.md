@@ -22,5 +22,5 @@ This website is part of my application for the **Cloud Team**, where I aim to ex
 ## 💻 Live Demo
 
 [🔗 Click here to view the live website](#)  
-*((https://polite-rock-04d655810.1.azurestaticapps.net/)*
+*([https://polite-rock-04d655810.1.azurestaticapps.net/])*
 
