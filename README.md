@@ -31,7 +31,7 @@ This website is part of my application for the **Cloud Team**, where I aim to ex
 ## 📁 Folder Structure
 
 /
-├── html.html # Main HTML file
+├── html.html # Main HTML file  
 ├── style.css # Stylesheet
 ├── script.js # JS file (minimal)
 └── README.md # This file
