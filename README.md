@@ -22,17 +22,5 @@ This website is part of my application for the **Cloud Team**, where I aim to ex
 ## 💻 Live Demo
 
 [🔗 Click here to view the live website](#)  
-*(Add your deployed URL here after hosting on Azure, AWS S3, Netlify, or GitHub Pages)*
+*((https://polite-rock-04d655810.1.azurestaticapps.net/)*
 
-## 🧠 Motivation
-
-> “Unlike many who seek the tag, I'm driven by a genuine curiosity to understand and build what's behind the scenes — the infrastructure that makes intelligent systems truly work.”
-
-## 📁 Folder Structure
-
-/
-
-├── html.html # Main HTML file  
-├── style.css # Stylesheet
-├── script.js # JS file (minimal)
-└── README.md # This file
